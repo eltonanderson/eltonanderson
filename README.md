@@ -1,6 +1,6 @@
-# Hello, I'm Elton Santana
+# Hello, I'm Elton De Santana
 
-![Profile Banner](link_to_your_banner_image)
+![Profile Banner]()
 
 I'm a passionate **back-end developer** with expertise in **JavaScript, TypeScript, Node.js, PostgreSQL, MongoDB, and Git.** I enjoy crafting robust and efficient server-side solutions that power web applications and services.
 
@@ -18,6 +18,10 @@ I'm a passionate **back-end developer** with expertise in **JavaScript, TypeScri
 
 - **Git**: Experienced in version control with Git, I collaborate effectively with teams and manage codebase history.
 
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,postgres,docker,git,github)](https://www.linkedin.com/in/elton-santana-dev/)
+
+  ![Elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonanderson&show_icons=true&theme=radical)
+
 ## 🌟 Projects
 
 Here are some of my notable projects:
@@ -30,10 +34,9 @@ Here are some of my notable projects:
 
 ## 📫 Contact
 
-- **GitHub**: [Your GitHub Username](https://github.com/eltonanderson)
+[![Github](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/eltonanderson)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/elton-santana-dev/)
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/elton-santana-dev/)
-
-- **Email**: eltonanderson@yahoo.com.br
+**Email**: eltonanderson@yahoo.com.br
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect. I'm always eager to explore new challenges and contribute to exciting projects.
