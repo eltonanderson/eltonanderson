@@ -27,4 +27,5 @@ I'm a passionate **back-end developer** with expertise in **JavaScript, TypeScri
 
 **Email**: eltonanderson@yahoo.com.br
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect. I'm always eager to explore new challenges and contribute to exciting projects.
+Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect. 
+I'm always eager to explore new challenges and contribute to exciting projects.
