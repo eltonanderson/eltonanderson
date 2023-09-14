@@ -19,6 +19,7 @@ I'm a passionate **back-end developer** with expertise in **JavaScript, TypeScri
   [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,postgres,docker,git,github)](https://www.linkedin.com/in/elton-santana-dev/)
 
   ![Elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonanderson&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonanderson&hide_progress=false)
 
 ## 🌟 Projects
 
