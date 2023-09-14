@@ -1,6 +1,4 @@
-# Hello, I'm Elton De Santana
-
-![Profile Banner](https://github.com/eltonanderson/eltonanderson/blob/main/github-header-image.png)
+![Hello, I'm Elton De Santana](https://github.com/eltonanderson/eltonanderson/blob/main/github-header-image.png)
 
 I'm a passionate **back-end developer** with expertise in **JavaScript, TypeScript, Node.js, PostgreSQL, MongoDB, and Git.** I enjoy crafting robust and efficient server-side solutions that power web applications and services.
 
