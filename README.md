@@ -1,6 +1,6 @@
 ![Hello, I'm Elton De Santana](https://github.com/eltonanderson/eltonanderson/blob/main/github-header-image.png)
 
-I'm a passionate **back-end developer** with expertise in **JavaScript, TypeScript, Node.js, PostgreSQL, MongoDB, and Git.** I enjoy crafting robust and efficient server-side solutions that power web applications and services.
+I'm a passionate **back-end developer** with expertise in **JavaScript, TypeScript, Node.js, MongoDB, and Git.** I enjoy crafting robust and efficient server-side solutions that power web applications and services.
 
 ## 🔧 Skills
 
@@ -9,8 +9,6 @@ I'm a passionate **back-end developer** with expertise in **JavaScript, TypeScri
 - **TypeScript**: I leverage TypeScript to add static typing and improved tooling to my JavaScript projects, ensuring code quality and maintainability.
 
 - **Node.js**: My go-to runtime for building server-side applications. I am well-versed in its ecosystem, including Express.js, NestJS, and more.
-
-- **PostgreSQL**: Proficient in designing and optimizing relational database schemas, writing complex queries, and maintaining database integrity.
 
 - **MongoDB**: Skilled in working with NoSQL databases, modeling data, and developing applications that harness the power of MongoDB.
 
@@ -21,15 +19,6 @@ I'm a passionate **back-end developer** with expertise in **JavaScript, TypeScri
   ![Elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonanderson&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonanderson&hide_progress=false)
 
-## 🌟 Projects
-
-Here are some of my notable projects:
-
-- [Project 1 Name](link_to_project_1): Short description of what the project does and the technologies used.
-
-- [Project 2 Name](link_to_project_2): Briefly describe your second project and its significance.
-
-- [Project 3 Name](link_to_project_3): Highlight your third project and its impact.
 
 ## 📫 Contact
 
