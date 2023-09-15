@@ -18,11 +18,16 @@
   [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,postgres,docker,git,github)](https://www.linkedin.com/in/elton-santana-dev/)
 
   ![Elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonanderson&show_icons=true&theme=radical)
+  
+  ![Elton's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonanderson&layout=compact&langs_count=7&theme=radical)
+  
 
 ## 📫 Contact
 
 [![Github](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/eltonanderson)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/elton-santana-dev/)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=eltonanderson&layout=compact&langs_count=7&theme=radical
 
 **Email**: eltonanderson@yahoo.com.br
 
