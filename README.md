@@ -1,6 +1,7 @@
 ![Hello, I'm Elton De Santana](https://github.com/eltonanderson/eltonanderson/blob/main/github-header-image.png)
 
-I'm a passionate **back-end developer** with expertise in **JavaScript, TypeScript, Node.js, MongoDB, and Git.** I enjoy crafting robust and efficient server-side solutions that power web applications and services.
+I'm a passionate **back-end developer** with expertise in **JavaScript, TypeScript, Node.js, MongoDB, and Git.** 
+<br>I enjoy crafting robust and efficient server-side solutions that power web applications and services.
 
 ## 🔧 Skills
 
@@ -28,4 +29,4 @@ I'm a passionate **back-end developer** with expertise in **JavaScript, TypeScri
 **Email**: eltonanderson@yahoo.com.br
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect. 
-I'm always eager to explore new challenges and contribute to exciting projects.
+<br>I'm always eager to explore new challenges and contribute to exciting projects.
