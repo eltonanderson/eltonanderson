@@ -27,8 +27,6 @@
 [![Github](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/eltonanderson)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/elton-santana-dev/)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=eltonanderson&layout=compact&langs_count=7&theme=radical
-
 **Email**: eltonanderson@yahoo.com.br
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect. 
