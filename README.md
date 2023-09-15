@@ -31,4 +31,4 @@
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect. 
 <br>I'm always eager to explore new challenges and contribute to exciting projects.
 
-![profile views](https://komarev.com/ghpvc/?eltonanderson)
+![Profile views](https://komarev.com/ghpvc/?username=eltonanderson)
