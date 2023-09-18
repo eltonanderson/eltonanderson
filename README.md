@@ -10,6 +10,8 @@
 - **TypeScript**: I leverage TypeScript to add static typing and improved tooling to my JavaScript projects, ensuring code quality and maintainability.
 
 - **Node.js**: My go-to runtime for building server-side applications. I am well-versed in its ecosystem, including Express.js, NestJS, and more.
+  
+- **PostgreSQL**: Proficient in designing and optimizing relational database schemas, writing complex queries, and maintaining database integrity.
 
 - **MongoDB**: Skilled in working with NoSQL databases, modeling data, and developing applications that harness the power of MongoDB.
 
